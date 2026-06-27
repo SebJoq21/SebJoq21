@@ -31,7 +31,7 @@
       </td>
       <td width="40%" align="center">
         <!-- GIF animado -->
-        <img src="https://media1.tenor.com/m/h8IttJROOUkAAAAd/cat-typing.gif" width="250" alt="Cat Typing GIF" />
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat Typing GIF" />
       </td>
     </tr>
   </table>
@@ -102,5 +102,5 @@
 <!-- Estadísticas de GitHub -->
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img src="https://github.readme-stats.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
 </div>
