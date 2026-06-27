@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
@@ -80,13 +82,13 @@
     <tr>
       <td width="100%">
         <h4>🌱 EcoAcopio</h4>
-        <p><em>[AQUÍ_BREVE_DESCRIPCIÓN_DE_QUÉ_TRATA_EL_PROYECTO]</em></p>
-        <p><strong>Tech Stack:</strong> [TECNOLOGÍAS_QUE_USASTE_EJ:_Node.js, Express, MySQL]</p>
+        <p><em>EcoAcopio is a lightweight, Multi-Tenant transactional ERP system specifically designed for the formalization, traceability, and financial integrity of recycling collection centers. This ecosystem is built under rigorous software engineering standards, prioritizing type safety, immutability of closed accounting periods, and a highly testable architecture.</em></p>
+        <p><strong>Tech Stack:</strong> Node.js, TypeScript, Jest, React, Vite</p>
         <br>
-        <a href="LINK_A_TU_REPOSITORIO_DE_GITHUB" target="_blank">
+        <a href="https://github.com/SebJoq21/Proyecto_EcoAcopio" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
-        <a href="LINK_A_LA_PAGINA_DESPLEGADA" target="_blank">
+        <a href="https://proyecto-eco-acopio.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy">
         </a>
       </td>
@@ -100,5 +102,5 @@
 <!-- Estadísticas de GitHub -->
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github.readme-stats.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
