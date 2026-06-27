@@ -26,7 +26,7 @@
         <ul>
           <li>👨‍💻 I'm currently developing projects focused on <strong>Backend Web Development</strong>.</li>
           <li>📚 Deepening my knowledge in <strong>Node.js, TypeScript</strong> and modular architecture.</li>
-          <li>🎯 Future Goals: Specialize in Backend Cybersecurity to build secure and resilient systems.</li>
+          <li>🎯 Future Goals: Become a <strong>Full Stack Developer</strong> by mastering and integrating <strong>NestJS</strong> and <strong>Next.js</strong> into my professional projects.</li>
         </ul>
       </td>
       <td width="40%" align="center">
