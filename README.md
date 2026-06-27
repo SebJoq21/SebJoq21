@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm Sebastian Chicata</h1>
 
+<!-- Enlaces Sociales -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/sebastian-joaquin-chicata-serrato-b954b9346/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+<br>
+
 <!-- Contadores de Vistas y Seguidores -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SebJoq21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -22,8 +30,8 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <!-- GIF animado del programador -->
-        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Work Sleep Repeat GIF" />
+        <!-- GIF animado -->
+        <img src="https://media1.tenor.com/m/h8IttJROOUkAAAAd/cat-typing.gif" width="250" alt="Cat Typing GIF" />
       </td>
     </tr>
   </table>
@@ -59,4 +67,38 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</div>
+
+<br>
+<hr>
+
+<!-- Proyectos Destacados -->
+<h3 align="center">Featured Projects 🚀</h3>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%">
+        <h4>🌱 EcoAcopio</h4>
+        <p><em>[AQUÍ_BREVE_DESCRIPCIÓN_DE_QUÉ_TRATA_EL_PROYECTO]</em></p>
+        <p><strong>Tech Stack:</strong> [TECNOLOGÍAS_QUE_USASTE_EJ:_Node.js, Express, MySQL]</p>
+        <br>
+        <a href="LINK_A_TU_REPOSITORIO_DE_GITHUB" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+        </a>
+        <a href="LINK_A_LA_PAGINA_DESPLEGADA" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<hr>
+
+<!-- Estadísticas de GitHub -->
+<h3 align="center">GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
