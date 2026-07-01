@@ -112,3 +112,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebJoq21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+<h3 align="center">GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats-two.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
