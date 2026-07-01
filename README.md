@@ -108,7 +108,7 @@
 <hr>
 
 <!-- Estadísticas de GitHub -->
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub Streak Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebJoq21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
