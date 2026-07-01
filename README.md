@@ -114,5 +114,5 @@
 </div>
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats-two.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
