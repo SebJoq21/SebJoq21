@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sebastian Chicata</h1>
+<h1 align="center">Hi, I'm Sebastian Joaquín Chicata Serrato</h1>
 
 <!-- Enlaces Sociales -->
 <div align="center">
