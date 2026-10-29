@@ -24,7 +24,7 @@
     <tr>
       <td width="60%" valign="top">
         <ul>
-          <li>👨‍💻 I'm currently developing projects focused on <strong>Backend Web Development</strong> and <strong>Software Architecture</strong>.</li>
+          <li>👨‍💻 I'm currently developing projects focused on <strong>Backend and Frontend Web Development</strong> and <strong>Software Architecture</strong>.</li>
           <li>🎯 Current Focus: Building scalable <strong>Full Stack</strong> applications utilizing modular architectures with <strong>NestJS</strong> and <strong>Next.js</strong>.</li>
           <li>🤖 Innovation Goals: Researching concurrent execution, fault tolerance, and data structuration for <strong>Artificial Intelligence (LLMs)</strong> workflows.</li>
           <li>🏆 Achievements: 1st Place at UNMSM Ideathon (2024) & Innovathon 1551 Finalist (2025).</li>
