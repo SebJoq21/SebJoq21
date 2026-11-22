@@ -1,22 +1,16 @@
-<!-- Banner animado con cambio de color -->
+<!-- Banner animado superior -->
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Sebastian Chicata Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Sebastian%20Chicata&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Software%20Architecture&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sebastian Chicata Header" />
 </div>
 
-<br>
-
-<!-- Texto dinámico estilo terminal -->
+<!-- Texto dinámico estilo terminal (sin cortes) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+scalable+Full+Stack+systems+with+NestJS+%26+Next.js;Exploring+Software+Architecture+%26+Fault+Tolerance;Researching+AI+%26+LLM+Execution+Workflows;1st+Place+UNMSM+Ideathon+(2024)+%7C+Innovathon+Finalist+(2025)" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Full+Stack+Systems+with+NestJS+%26+Next.js;Software+Architecture+%26+Fault+Tolerance;Researching+AI+%26+LLM+Execution+Workflows;UNMSM+Ideathon+1st+Place+%7C+Innovathon+Finalist" alt="Typing SVG" /></a>
 </div>
 
 <!-- Enlaces Sociales y Contadores -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/sebastian-joaquin-chicata-serrato-b954b9346/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/sebastian-joaquin-chicata-serrato-b954b9346/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=SebJoq21&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SebJoq21?label=FOLLOWERS&style=for-the-badge&color=bb9af7&logo=github&logoColor=white" alt="Followers" />
 </div>
@@ -99,12 +93,8 @@ const sebastian: Developer = {
       <h4>🌱 EcoAcopio — Multi-Tenant ERP System</h4>
       <p>Transactional ERP engineered for the formalization, traceability, and financial integrity of recycling collection centers. Prioritizes strict type safety, immutability of closed accounting periods, and a highly testable modular architecture.</p>
       <p><code>Node.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Jest</code> <code>React</code></p>
-      <a href="https://github.com/SebJoq21/Proyecto_EcoAcopio" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="Repo">
-      </a>
-      <a href="https://proyecto-eco-acopio.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-1a1b27?style=for-the-badge&logo=vercel&logoColor=00f5d4" alt="Deploy">
-      </a>
+      <a href="https://github.com/SebJoq21/Proyecto_EcoAcopio" target="_blank"><img src="https://img.shields.io/badge/Source_Code-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="Repo" /></a>
+      <a href="https://proyecto-eco-acopio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-1a1b27?style=for-the-badge&logo=vercel&logoColor=00f5d4" alt="Deploy" /></a>
     </td>
   </tr>
   <tr>
