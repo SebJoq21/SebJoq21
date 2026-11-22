@@ -26,50 +26,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br>
 
-<!-- Tech Stack -->
+<!-- Tech Stack (Bento Grid SVG) -->
 <h3 align="center">⚡ Tech Stack & Architecture</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <strong>Languages & Backend</strong><br><br>
-        <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /><br>
-        <img src="https://img.shields.io/badge/NestJS-1a1b27?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-        <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=43853D" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-1a1b27?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/Jest-1a1b27?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" />
-      </td>
-      <td align="center" width="50%">
-        <strong>Frontend & Styling</strong><br><br>
-        <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-1a1b27?style=for-the-badge&logo=vite&logoColor=B73BFE" alt="Vite" /><br>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <strong>Databases & ORMs</strong><br><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=2D3748" alt="Prisma" /><br>
-        <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-        <img src="https://img.shields.io/badge/SQL_Server-1a1b27?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
-      </td>
-      <td align="center" width="50%">
-        <strong>Infra, DevOps & Data</strong><br><br>
-        <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-        <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /><br>
-        <img src="https://img.shields.io/badge/Power_BI-1a1b27?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Excel-1a1b27?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel" />
-      </td>
-    </tr>
-  </table>
+  <img src="./stack.svg" width="100%" alt="Tech Stack Bento Grid" />
 </div>
 
 <br>
