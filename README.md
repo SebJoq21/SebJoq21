@@ -26,8 +26,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- 01. Tech Stack (Bento Grid SVG) -->
+<!-- 01. Tech Stack -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&fontSize=24&height=65&text=01%20%2F%2F%20TECH%20STACK%20%26%20ARCHITECTURE&animation=fadeIn" alt="Tech Stack & Architecture" />
+  <img src="./title-stack.svg" width="100%" alt="01 Tech Stack & Architecture" />
 </div>
 
 <div align="center">
@@ -37,9 +38,9 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- 02. Proyectos Destacados (Bento Grid SVG) -->
+<!-- 02. Featured Projects -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f5d4&fontSize=24&height=65&text=02%20%2F%2F%20FEATURED%20PROJECTS&animation=fadeIn" alt="Featured Projects" />
+  <img src="./title-projects.svg" width="100%" alt="02 Featured Projects" />
 </div>
 
 <div align="center">
@@ -56,9 +57,9 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- 03. Dashboard de Estadísticas y Telemetría -->
+<!-- 03. Telemetry & Activity -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&fontSize=24&height=65&text=03%20%2F%2F%20TELEMETRY%20%26%20ACTIVITY&animation=fadeIn" alt="Telemetry & Activity" />
+  <img src="./title-telemetry.svg" width="100%" alt="03 Telemetry & Activity" />
 </div>
 
 <div align="center">
