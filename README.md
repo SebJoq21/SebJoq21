@@ -76,38 +76,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br>
 
-<!-- Proyectos Destacados -->
+<!-- Proyectos Destacados (Bento Grid SVG) -->
 <h3 align="center">🚀 Featured Projects</h3>
 
-<table>
-  <tr>
-    <td>
-      <h4>🌱 EcoAcopio — Multi-Tenant ERP System</h4>
-      <p>Transactional ERP engineered for the formalization, traceability, and financial integrity of recycling collection centers. Prioritizes strict type safety, immutability of closed accounting periods, and a highly testable modular architecture.</p>
-      <p><code>Node.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Jest</code> <code>React</code></p>
-      <a href="https://github.com/SebJoq21/Proyecto_EcoAcopio" target="_blank"><img src="https://img.shields.io/badge/Source_Code-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="Repo" /></a>
-      <a href="https://proyecto-eco-acopio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-1a1b27?style=for-the-badge&logo=vercel&logoColor=00f5d4" alt="Deploy" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🤝 Red San Marcos — 1st Place UNMSM Ideathon</h4>
-      <p>Led the winning team designing a platform to connect the university community, focusing on scalable data structuring, UX, and collaborative workflows.</p>
-      <p><code>Tech Lead</code> <code>Backend Architecture</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🤖 Generative AI Social Equity Chatbot</h4>
-      <p>Research and knowledge base curation for a Virtual Assistant, systematizing institutional documentation and Emotion AI frameworks to ground LLM responses on complex social queries.</p>
-      <p><code>AI Research</code> <code>LLM Context</code> <code>Knowledge Management</code></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./projects.svg" width="100%" alt="Featured Projects Bento Grid" />
+</div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<br>
+<div align="center">
+  <a href="https://github.com/SebJoq21/Proyecto_EcoAcopio" target="_blank"><img src="https://img.shields.io/badge/EcoAcopio_Repo-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="EcoAcopio Repo" /></a>
+  <a href="https://proyecto-eco-acopio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/EcoAcopio_Live_Demo-1a1b27?style=for-the-badge&logo=vercel&logoColor=00f5d4" alt="EcoAcopio Deploy" /></a>
+</div>
 
 <!-- Dashboard de Estadísticas y Telemetría -->
 <h3 align="center">📊 Telemetry & Activity</h3>
