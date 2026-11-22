@@ -17,17 +17,18 @@
 
 <br>
 
-<!-- Ventana IDE animada (requiere terminal.svg en la raíz) -->
+<!-- Ventana IDE animada -->
 <div align="center">
   <img src="./terminal.svg" width="100%" alt="Sebastian Profile Terminal" />
 </div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<br>
 
-<!-- Tech Stack (Bento Grid SVG) -->
-<h3 align="center">⚡ Tech Stack & Architecture</h3>
+<!-- 01. Tech Stack (Bento Grid SVG) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&fontSize=24&height=65&text=01%20%2F%2F%20TECH%20STACK%20%26%20ARCHITECTURE&animation=fadeIn" alt="Tech Stack & Architecture" />
+</div>
 
 <div align="center">
   <img src="./stack.svg" width="100%" alt="Tech Stack Bento Grid" />
@@ -35,22 +36,30 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<br>
 
-<!-- Proyectos Destacados (Bento Grid SVG) -->
-<h3 align="center">🚀 Featured Projects</h3>
+<!-- 02. Proyectos Destacados (Bento Grid SVG) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f5d4&fontSize=24&height=65&text=02%20%2F%2F%20FEATURED%20PROJECTS&animation=fadeIn" alt="Featured Projects" />
+</div>
 
 <div align="center">
   <img src="./projects.svg" width="100%" alt="Featured Projects Bento Grid" />
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/SebJoq21/Proyecto_EcoAcopio" target="_blank"><img src="https://img.shields.io/badge/EcoAcopio_Repo-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="EcoAcopio Repo" /></a>
   <a href="https://proyecto-eco-acopio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/EcoAcopio_Live_Demo-1a1b27?style=for-the-badge&logo=vercel&logoColor=00f5d4" alt="EcoAcopio Deploy" /></a>
 </div>
 
-<!-- Dashboard de Estadísticas y Telemetría -->
-<h3 align="center">📊 Telemetry & Activity</h3>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- 03. Dashboard de Estadísticas y Telemetría -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&fontSize=24&height=65&text=03%20%2F%2F%20TELEMETRY%20%26%20ACTIVITY&animation=fadeIn" alt="Telemetry & Activity" />
+</div>
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-one.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
