@@ -1,0 +1,83 @@
+<svg width="800" height="295" viewBox="0 0 800 295" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #1a1b27; }
+    .header { fill: #13141f; }
+    .border {
+      stroke: #7aa2f7;
+      stroke-width: 1.5;
+      animation: borderPulse 4s ease-in-out infinite;
+    }
+    .font { font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace; font-size: 13.5px; }
+    .title { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: #9aa5ce; font-weight: 600; }
+    .status-text { font-family: monospace; font-size: 11px; fill: #9ece6a; font-weight: bold; }
+    .kw { fill: #bb9af7; }
+    .var { fill: #c0caf5; }
+    .type { fill: #7dcfff; }
+    .prop { fill: #7aa2f7; }
+    .str { fill: #9ece6a; }
+    .punct { fill: #89ddff; }
+    .line-num { fill: #414868; }
+
+    @keyframes borderPulse {
+      0%, 100% { stroke: #7aa2f7; stroke-opacity: 0.4; }
+      50% { stroke: #bb9af7; stroke-opacity: 0.9; }
+    }
+    @keyframes dotPulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateX(-6px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    .pulse { animation: dotPulse 2s infinite; }
+    .cursor { animation: blink 1s infinite; fill: #00f5d4; }
+    .l1 { opacity: 0; animation: fadeIn 0.4s ease forwards 0.1s; }
+    .l2 { opacity: 0; animation: fadeIn 0.4s ease forwards 0.25s; }
+    .l3 { opacity: 0; animation: fadeIn 0.4s ease forwards 0.4s; }
+    .l4 { opacity: 0; animation: fadeIn 0.4s ease forwards 0.55s; }
+    .l5 { opacity: 0; animation: fadeIn 0.4s ease forwards 0.7s; }
+    .l6 { opacity: 0; animation: fadeIn 0.4s ease forwards 0.85s; }
+    .l7 { opacity: 0; animation: fadeIn 0.4s ease forwards 1.0s; }
+    .l8 { opacity: 0; animation: fadeIn 0.4s ease forwards 1.15s; }
+    .l9 { opacity: 0; animation: fadeIn 0.4s ease forwards 1.3s; }
+    .l10 { opacity: 0; animation: fadeIn 0.4s ease forwards 1.45s; }
+    .l11 { opacity: 0; animation: fadeIn 0.4s ease forwards 1.6s; }
+  </style>
+
+  
+  <rect x="2" y="2" width="796" height="291" rx="12" class="bg border" />
+  <path d="M2 14C2 7.37258 7.37258 2 14 2H786C792.627 2 798 7.37258 798 14V38H2V14Z" class="header" />
+
+  
+  <circle cx="22" cy="20" r="6" fill="#f7768e" />
+  <circle cx="42" cy="20" r="6" fill="#e0af68" />
+  <circle cx="62" cy="20" r="6" fill="#9ece6a" />
+
+  
+  <text x="355" y="24" class="title">sebastian.ts — SebJoq21</text>
+
+  
+  <circle cx="715" cy="20" r="4" fill="#9ece6a" class="pulse" />
+  <text x="725" y="24" class="status-text">ONLINE</text>
+
+  
+  <g class="font">
+    <text x="20" y="66" class="l1"><tspan class="line-num">01  </tspan><tspan class="kw">const </tspan><tspan class="var">sebastian</tspan><tspan class="punct">: </tspan><tspan class="type">Developer </tspan><tspan class="punct">= {</tspan></text>
+    <text x="20" y="88" class="l2"><tspan class="line-num">02    </tspan><tspan class="prop">role</tspan><tspan class="punct">: </tspan><tspan class="str">"Full Stack Developer"</tspan><tspan class="punct">,</tspan></text>
+    <text x="20" y="110" class="l3"><tspan class="line-num">03    </tspan><tspan class="prop">focus</tspan><tspan class="punct">: [</tspan><tspan class="str">"Backend &amp; Frontend"</tspan><tspan class="punct">, </tspan><tspan class="str">"Software Architecture"</tspan><tspan class="punct">, </tspan><tspan class="str">"Modular Systems"</tspan><tspan class="punct">],</tspan></text>
+    <text x="20" y="132" class="l4"><tspan class="line-num">04    </tspan><tspan class="prop">mainStack</tspan><tspan class="punct">: {</tspan></text>
+    <text x="20" y="154" class="l5"><tspan class="line-num">05      </tspan><tspan class="prop">backend</tspan><tspan class="punct">: [</tspan><tspan class="str">"NestJS"</tspan><tspan class="punct">, </tspan><tspan class="str">"Node.js"</tspan><tspan class="punct">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="punct">, </tspan><tspan class="str">"Prisma"</tspan><tspan class="punct">],</tspan></text>
+    <text x="20" y="176" class="l6"><tspan class="line-num">06      </tspan><tspan class="prop">frontend</tspan><tspan class="punct">: [</tspan><tspan class="str">"Next.js"</tspan><tspan class="punct">, </tspan><tspan class="str">"React"</tspan><tspan class="punct">, </tspan><tspan class="str">"TypeScript"</tspan><tspan class="punct">, </tspan><tspan class="str">"Tailwind CSS"</tspan><tspan class="punct">],</tspan></text>
+    <text x="20" y="198" class="l7"><tspan class="line-num">07    </tspan><tspan class="punct">},</tspan></text>
+    <text x="20" y="220" class="l8"><tspan class="line-num">08    </tspan><tspan class="prop">research</tspan><tspan class="punct">: </tspan><tspan class="str">"Fault-tolerant concurrent execution for LLM workflows"</tspan><tspan class="punct">,</tspan></text>
+    <text x="20" y="242" class="l9"><tspan class="line-num">09    </tspan><tspan class="prop">achievements</tspan><tspan class="punct">: [</tspan><tspan class="str">"1st Place UNMSM Ideathon"</tspan><tspan class="punct">, </tspan><tspan class="str">"Innovathon 1551 Finalist"</tspan><tspan class="punct">],</tspan></text>
+    <text x="20" y="264" class="l10"><tspan class="line-num">10  </tspan><tspan class="punct">};</tspan></text>
+    <rect x="65" y="253" width="8" height="14" class="cursor l11" />
+  </g>
+</svg>
