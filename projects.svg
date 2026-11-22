@@ -1,0 +1,136 @@
+<svg width="850" height="366" viewBox="0 0 850 366" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ecoBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071e1b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="redBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f1709" />
+      <stop offset="100%" stop-color="#18181b" />
+    </linearGradient>
+    <linearGradient id="aiBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e102e" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .h-title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 17px; font-weight: 800; fill: #ffffff; }
+    .c-title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15.5px; font-weight: 800; fill: #ffffff; }
+    .desc { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 13px; fill: #cbd5e1; }
+    .tag-txt { font-family: 'Fira Code', Consolas, monospace; font-size: 11px; font-weight: 600; }
+    .badge-txt { font-family: 'Fira Code', Consolas, monospace; font-size: 10.5px; font-weight: 700; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    @keyframes barGrow {
+      0%, 100% { transform: scaleY(1); }
+      50% { transform: scaleY(0.65); }
+    }
+
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    .b1 { transform-origin: 730px 140px; animation: barGrow 2.4s ease-in-out infinite; }
+    .b2 { transform-origin: 752px 140px; animation: barGrow 2.4s ease-in-out infinite 0.4s; }
+    .b3 { transform-origin: 774px 140px; animation: barGrow 2.4s ease-in-out infinite 0.8s; }
+    .b4 { transform-origin: 796px 140px; animation: barGrow 2.4s ease-in-out infinite 1.2s; }
+  </style>
+
+  
+  <g>
+    <rect x="4" y="4" width="842" height="164" rx="16" fill="url(#ecoBg)" stroke="#10b981" stroke-opacity="0.65" stroke-width="1.5" />
+
+    
+    <rect x="722" y="20" width="102" height="24" rx="12" fill="#064e3b" stroke="#34d399" stroke-opacity="0.6" />
+    <circle cx="736" cy="32" r="3.5" fill="#34d399" class="pulse" />
+    <text x="746" y="36" class="badge-txt" fill="#6ee7b7">LIVE DEMO</text>
+
+    
+    <rect x="722" y="96" width="14" height="44" rx="3" fill="#10b981" fill-opacity="0.35" class="b1" />
+    <rect x="744" y="80" width="14" height="60" rx="3" fill="#10b981" fill-opacity="0.55" class="b2" />
+    <rect x="766" y="106" width="14" height="34" rx="3" fill="#34d399" fill-opacity="0.45" class="b3" />
+    <rect x="788" y="68" width="14" height="72" rx="3" fill="#34d399" fill-opacity="0.8" class="b4" />
+
+    <text x="26" y="38" class="h-title">EcoAcopio — Multi-Tenant ERP System</text>
+    <text x="26" y="68" class="desc">Transactional ERP engineered for the formalization, traceability, and financial integrity of</text>
+    <text x="26" y="88" class="desc">recycling collection centers. Prioritizes strict type safety, immutable periods &amp; modular testing.</text>
+
+    
+    <rect x="26" y="116" width="70" height="26" rx="6" fill="#0f2922" stroke="#10b981" stroke-opacity="0.45" />
+    <text x="38" y="133" class="tag-txt" fill="#6ee7b7">Node.js</text>
+
+    <rect x="104" y="116" width="90" height="26" rx="6" fill="#0f2922" stroke="#10b981" stroke-opacity="0.45" />
+    <text x="116" y="133" class="tag-txt" fill="#6ee7b7">TypeScript</text>
+
+    <rect x="202" y="116" width="92" height="26" rx="6" fill="#0f2922" stroke="#10b981" stroke-opacity="0.45" />
+    <text x="214" y="133" class="tag-txt" fill="#6ee7b7">PostgreSQL</text>
+
+    <rect x="302" y="116" width="64" height="26" rx="6" fill="#0f2922" stroke="#10b981" stroke-opacity="0.45" />
+    <text x="314" y="133" class="tag-txt" fill="#6ee7b7">Prisma</text>
+
+    <rect x="374" y="116" width="52" height="26" rx="6" fill="#0f2922" stroke="#10b981" stroke-opacity="0.45" />
+    <text x="386" y="133" class="tag-txt" fill="#6ee7b7">Jest</text>
+
+    <rect x="434" y="116" width="58" height="26" rx="6" fill="#0f2922" stroke="#10b981" stroke-opacity="0.45" />
+    <text x="446" y="133" class="tag-txt" fill="#6ee7b7">React</text>
+  </g>
+
+  
+  <g>
+    <rect x="4" y="182" width="415" height="178" rx="16" fill="url(#redBg)" stroke="#f59e0b" stroke-opacity="0.6" stroke-width="1.4" />
+
+    
+    <rect x="314" y="198" width="88" height="24" rx="12" fill="#451a03" stroke="#fbbf24" stroke-opacity="0.6" />
+    <circle cx="327" cy="210" r="3.5" fill="#fbbf24" class="pulse" />
+    <text x="336" y="214" class="badge-txt" fill="#fcd34d">1ST PLACE</text>
+
+    
+    <line x1="355" y1="318" x2="385" y2="305" stroke="#f59e0b" stroke-opacity="0.4" stroke-width="1.2" />
+    <line x1="385" y1="305" x2="396" y2="334" stroke="#f59e0b" stroke-opacity="0.4" stroke-width="1.2" />
+    <line x1="355" y1="318" x2="396" y2="334" stroke="#f59e0b" stroke-opacity="0.4" stroke-width="1.2" />
+    <circle cx="355" cy="318" r="4" fill="#fbbf24" class="pulse" />
+    <circle cx="385" cy="305" r="3.5" fill="#f59e0b" />
+    <circle cx="396" cy="334" r="4.5" fill="#fcd34d" />
+
+    <text x="24" y="216" class="c-title">Red San Marcos</text>
+    <text x="24" y="248" class="desc">Led the winning team at UNMSM Ideathon</text>
+    <text x="24" y="268" class="desc">designing a platform to connect the university</text>
+    <text x="24" y="288" class="desc">community with scalable data structuring.</text>
+
+    <rect x="24" y="314" width="84" height="26" rx="6" fill="#2e210a" stroke="#f59e0b" stroke-opacity="0.45" />
+    <text x="36" y="331" class="tag-txt" fill="#fcd34d">Tech Lead</text>
+
+    <rect x="116" y="314" width="154" height="26" rx="6" fill="#2e210a" stroke="#f59e0b" stroke-opacity="0.45" />
+    <text x="128" y="331" class="tag-txt" fill="#fcd34d">Backend Architecture</text>
+  </g>
+
+  
+  <g>
+    <rect x="431" y="182" width="415" height="178" rx="16" fill="url(#aiBg)" stroke="#c084fc" stroke-opacity="0.6" stroke-width="1.4" />
+
+    
+    <rect x="742" y="198" width="86" height="24" rx="12" fill="#3b0764" stroke="#e879f9" stroke-opacity="0.6" />
+    <circle cx="755" cy="210" r="3.5" fill="#e879f9" class="pulse" />
+    <text x="764" y="214" class="badge-txt" fill="#f0abfc">RESEARCH</text>
+
+    
+    <circle cx="808" cy="322" r="16" stroke="#c084fc" stroke-opacity="0.25" stroke-width="1.2" class="pulse" />
+    <circle cx="808" cy="322" r="10" stroke="#e879f9" stroke-opacity="0.5" stroke-width="1.2" />
+    <circle cx="808" cy="322" r="4" fill="#f0abfc" class="pulse" />
+
+    <text x="451" y="216" class="c-title">GenAI Social Equity Chatbot</text>
+    <text x="451" y="248" class="desc">Knowledge base curation for a Virtual Assistant,</text>
+    <text x="451" y="268" class="desc">systematizing institutional docs &amp; Emotion AI</text>
+    <text x="451" y="288" class="desc">frameworks to ground complex LLM responses.</text>
+
+    <rect x="451" y="314" width="96" height="26" rx="6" fill="#2c1242" stroke="#c084fc" stroke-opacity="0.45" />
+    <text x="463" y="331" class="tag-txt" fill="#e9d5ff">AI Research</text>
+
+    <rect x="555" y="314" width="98" height="26" rx="6" fill="#2c1242" stroke="#c084fc" stroke-opacity="0.45" />
+    <text x="567" y="331" class="tag-txt" fill="#e9d5ff">LLM Context</text>
+
+    <rect x="661" y="314" width="112" height="26" rx="6" fill="#2c1242" stroke="#c084fc" stroke-opacity="0.45" />
+    <text x="673" y="331" class="tag-txt" fill="#e9d5ff">Knowledge Base</text>
+  </g>
+</svg>
