@@ -1,145 +1,141 @@
-<h1 align="center">Hi, I'm Sebastian Chicata</h1>
-
-<!-- Enlaces Sociales -->
+<!-- Banner animado con cambio de color -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/sebastian-joaquin-chicata-serrato-b954b9346/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="./header.svg" width="100%" alt="Sebastian Chicata Header" />
+</div>
+
+<br>
+
+<!-- Texto dinámico estilo terminal -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+scalable+Full+Stack+systems+with+NestJS+%26+Next.js;Exploring+Software+Architecture+%26+Fault+Tolerance;Researching+AI+%26+LLM+Execution+Workflows;1st+Place+UNMSM+Ideathon+(2024)+%7C+Innovathon+Finalist+(2025)" alt="Typing SVG" />
   </a>
 </div>
-<br>
 
-<!-- Contadores de Vistas y Seguidores -->
+<!-- Enlaces Sociales y Contadores -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SebJoq21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SebJoq21?label=Followers&style=social" alt="Followers" />
+  <a href="https://www.linkedin.com/in/sebastian-joaquin-chicata-serrato-b954b9346/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SebJoq21&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SebJoq21?label=FOLLOWERS&style=for-the-badge&color=bb9af7&logo=github&logoColor=white" alt="Followers" />
 </div>
 
 <br>
-<h3 align="center">Full Stack Developer</h3>
+
+<!-- Sección Sobre Mí estilo IDE / Terminal -->
+```ts
+const sebastian: Developer = {
+  role: "Full Stack Developer",
+  focus: ["Backend & Frontend Web Dev", "Software Architecture", "Modular Systems"],
+  mainStack: {
+    backend: ["NestJS", "Node.js", "PostgreSQL", "Prisma"],
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+  },
+  research: "Concurrent execution, fault tolerance & data structuring for LLM workflows",
+  achievements: [
+    "🏆 1st Place @ UNMSM Ideathon (2024)",
+    "🚀 Finalist @ Innovathon 1551 (2025)",
+  ],
+};
+```
+
 <br>
 
-<!-- Sección Sobre Mí y GIF -->
+<!-- Tech Stack -->
+<h3 align="center">⚡ Tech Stack & Architecture</h3>
+
 <div align="center">
   <table>
     <tr>
-      <td width="60%" valign="top">
-        <ul>
-          <li>👨‍💻 I'm currently developing projects focused on <strong>Backend and Frontend Web Development</strong> and <strong>Software Architecture</strong>.</li>
-          <li>🎯 Current Focus: Building scalable <strong>Full Stack</strong> applications utilizing modular architectures with <strong>NestJS</strong> and <strong>Next.js</strong>.</li>
-          <li>🤖 Innovation Goals: Researching concurrent execution, fault tolerance, and data structuration for <strong>Artificial Intelligence (LLMs)</strong> workflows.</li>
-          <li>🏆 Achievements: 1st Place at UNMSM Ideathon (2024) & Innovathon 1551 Finalist (2025).</li>
-        </ul>
+      <td align="center" width="50%">
+        <strong>Languages & Backend</strong><br><br>
+        <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /><br>
+        <img src="https://img.shields.io/badge/NestJS-1a1b27?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+        <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=43853D" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-1a1b27?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Jest-1a1b27?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" />
       </td>
-      <td width="40%" align="center">
-        <!-- GIF animado -->
-        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat Typing GIF" />
+      <td align="center" width="50%">
+        <strong>Frontend & Styling</strong><br><br>
+        <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-1a1b27?style=for-the-badge&logo=vite&logoColor=B73BFE" alt="Vite" /><br>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <strong>Databases & ORMs</strong><br><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=2D3748" alt="Prisma" /><br>
+        <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+        <img src="https://img.shields.io/badge/SQL_Server-1a1b27?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
+      </td>
+      <td align="center" width="50%">
+        <strong>Infra, DevOps & Data</strong><br><br>
+        <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+        <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /><br>
+        <img src="https://img.shields.io/badge/Power_BI-1a1b27?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+        <img src="https://img.shields.io/badge/Excel-1a1b27?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel" />
       </td>
     </tr>
   </table>
 </div>
 
-<hr>
-
-<h3 align="center">My Skills Include</h3>
-
-<h4 align="center">Programming Languages</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
-
 <br>
-
-<h4 align="center">Backend & Architecture</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-</div>
-
-<br>
-
-<h4 align="center">Frontend & Styling</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-</div>
-
-<br>
-
-<h4 align="center">Databases & ORMs</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-</div>
-
-<br>
-
-<h4 align="center">Tools, Infra & Data</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-</div>
-
-<br>
-<hr>
 
 <!-- Proyectos Destacados -->
-<h3 align="center">Featured Projects 🚀</h3>
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table>
+  <tr>
+    <td>
+      <h4>🌱 EcoAcopio — Multi-Tenant ERP System</h4>
+      <p>Transactional ERP engineered for the formalization, traceability, and financial integrity of recycling collection centers. Prioritizes strict type safety, immutability of closed accounting periods, and a highly testable modular architecture.</p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Jest</code> <code>React</code></p>
+      <a href="https://github.com/SebJoq21/Proyecto_EcoAcopio" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="Repo">
+      </a>
+      <a href="https://proyecto-eco-acopio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-1a1b27?style=for-the-badge&logo=vercel&logoColor=00f5d4" alt="Deploy">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🤝 Red San Marcos — 1st Place UNMSM Ideathon</h4>
+      <p>Led the winning team designing a platform to connect the university community, focusing on scalable data structuring, UX, and collaborative workflows.</p>
+      <p><code>Tech Lead</code> <code>Backend Architecture</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🤖 Generative AI Social Equity Chatbot</h4>
+      <p>Research and knowledge base curation for a Virtual Assistant, systematizing institutional documentation and Emotion AI frameworks to ground LLM responses on complex social queries.</p>
+      <p><code>AI Research</code> <code>LLM Context</code> <code>Knowledge Management</code></p>
+    </td>
+  </tr>
+</table>
+
 <br>
+
+<!-- Dashboard de Estadísticas -->
+<h3 align="center">📊 Telemetry & Activity</h3>
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="100%">
-        <h4>🌱 EcoAcopio (ERP System)</h4>
-        <p><em>A lightweight, Multi-Tenant transactional ERP system specifically designed for the formalization, traceability, and financial integrity of recycling collection centers. Built under rigorous software engineering standards, prioritizing type safety, immutability of closed accounting periods, and a highly testable architecture.</em></p>
-        <p><strong>Tech Stack:</strong> Node.js, TypeScript, PostgreSQL, Prisma, Jest, React</p>
-        <br>
-        <a href="https://github.com/SebJoq21/Proyecto_EcoAcopio" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-        <a href="https://proyecto-eco-acopio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%">
-        <h4>🤝 Red San Marcos (Ideathon 1st Place)</h4>
-        <p><em>Led the winning team in designing a technological solution to connect the university community. Focused on user experience, scalable data structuring, and collaborative problem-solving.</em></p>
-        <p><strong>Role:</strong> Tech Lead & Backend Architecture</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%">
-        <h4>🤖 Generative AI Social Equity Chatbot</h4>
-        <p><em>Research and knowledge base curation project for a Virtual Assistant. Systematized institutional documentation and "Emotion AI" frameworks to provide robust context for a generative AI model addressing complex social queries.</em></p>
-        <p><strong>Focus:</strong> AI Research, Data Curation, Knowledge Management</p>
-      </td>
-    </tr>
-  </table>
+  <img height="170em" src="https://github-readme-stats-one.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SebJoq21&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 </div>
 
 <br>
-<hr>
 
-<!-- Estadísticas de GitHub -->
-<h3 align="center">GitHub Streak Stats</h3>
+<!-- Footer animado -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebJoq21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=SebJoq21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=100&section=footer" width="100%" />
 </div>
