@@ -1,6 +1,6 @@
 <!-- Banner animado superior -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Sebastian%20Chicata&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Software%20Architecture&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sebastian Joaquin Chicata Serrato Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Sebastian%20Chicata&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Software%20Architecture&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sebastian Chicata Header" />
 </div>
 
 <!-- Texto dinámico estilo terminal -->
